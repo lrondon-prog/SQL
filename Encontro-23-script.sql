@@ -1,7 +1,7 @@
 SELECT * FROM produto
 GO
 
-SELECT COUNT(*) FROM produto
+SELECT COUNT(*) FROM produtos
 GO
 
 SELECT MAX(catid) AS maiorcatid FROM produto
